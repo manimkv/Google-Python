@@ -1,3 +1,3 @@
 Google-Python
 =============
-Solutions to anandh-python tutorials
+Solutions to google-python exercises
